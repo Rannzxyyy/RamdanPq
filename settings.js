@@ -36,30 +36,30 @@ lolkey = '2f73fe5296d00f4fb394a468'
 frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
-global.vcardowner = ['6281236167286'], ['6281236167286'] //number
-global.allpay = "081236167286" // nomor pertama / first number donate
-global.allpay2 = "081236167286" // nomor ke dua /second number donate
-global.ownername = "𝐑. 𝐒𝐙 - MD" //owner
-global.email = "📧 4ksanzz@gmail.com" //email
-global.website = "⚙️ Github : 4ksanzz" //github name
+global.vcardowner = ['6283108283823'], ['6283108283823'] //number
+global.allpay = "081214300828" // nomor pertama / first number donate
+global.allpay2 = "083108283823" // nomor ke dua /second number donate
+global.ownername = "Ramdan. SZ - MD" //owner
+global.email = "📧 ramdangani7905@gmail.com" //email
+global.website = "⚙️ Github : Rannzxyyy" //github name
 global.location = "🌍 Isekai, Taman Hiburan Para Loli, Pemandian Umum Wanita" //location
 global.roblox = "👾 Youtube : @4KSanzz" //roblox
-global.ig = "👑 Instagram : @4k.sanzz" //insta
+global.ig = "👑 Instagram : @rannzxyyy_" //insta
 global.tg = "💙 Telegram : @sanzz4k" //telegram
 
 //bot bomdy 
-global.owner = ['6281236167286'], ['6285960348665']
-global.ownernomer = "𝐑. 𝐒𝐙✨" //ur number
-global.ownertag = '6281236167286' //ur tag number
-global.botname = '𝐑. 𝐒𝐙 - MD' //ur bot name
+global.owner = ['6283108283823'], ['6283108867384']
+global.ownernomer = "Ramdan. 𝐒𝐙✨" //ur number
+global.ownertag = '6283108867384' //ur tag number
+global.botname = 'Ranzz. 𝐒𝐙 - MD' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@4KSanzz" //ur website to be displayed
-global.botscript = 'https://github.com/4ksanzz' //script link
+global.botscript = 'https://github.com/rannzxyyy' //script link
 global.reactmoji = "⚡" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
-global.packname = "𝐑. 𝐒𝐙" //ur sticker watermark packname
-global.author = "√" //ur sticker watermark author
-global.wm = "4K SANZZ" //ur watermark
+global.packname = "Ramdan R❤️" //ur sticker watermark packname
+global.author = "Ranzz Botz" //ur sticker watermark author
+global.wm = "RANZZ BOTZ" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
